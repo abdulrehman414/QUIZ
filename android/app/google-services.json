@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "225205234276",
+    "firebase_url": "https://first-83232.firebaseio.com",
+    "project_id": "first-83232",
+    "storage_bucket": "first-83232.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:225205234276:android:a74a483bc70b7836bc0d71",
+        "android_client_info": {
+          "package_name": "com.example.CoolQuiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "225205234276-jjn3b6u416uh5c7gonqduuelak9ppb87.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-QChm77IAEmCmsDPgYitvRE29v7lz7hY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "225205234276-jjn3b6u416uh5c7gonqduuelak9ppb87.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
